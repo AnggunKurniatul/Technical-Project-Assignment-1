@@ -112,3 +112,31 @@ nav ul{
     margin-bottom: 30px;
 }
 
+.portofolio{
+    margin: 50px 100px;
+}
+
+.portofolio h2{
+    margin-bottom: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 28px;
+}
+
+.portofolio-1 ul li{
+    list-style-type:none;
+}
+
+.portofolio-2{
+    padding: 20px 50px;
+    margin: 10px 0px;
+    background-color: #4592AF;
+}
+
+.portofolio-2 a{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 24px;
+    text-decoration: none;
+    color: white;
+}
