@@ -135,6 +135,8 @@ nav ul{
     padding: 20px 50px;
     margin: 10px 0px;
     background-color: #4592AF;
+    border: 2px solid black;
+    border-radius: 10px;
 }
 
 .portofolio-2 a{
@@ -143,4 +145,39 @@ nav ul{
     font-size: 24px;
     text-decoration: none;
     color: white;
+}
+
+.blog{
+    margin: 50px 100px;
+}
+
+.blog h2{
+    margin-bottom: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 28px;
+}
+
+.blog-1{
+    margin-bottom: 50px;
+}
+
+.blog-1 ul li{
+    list-style-type:none;
+}
+
+.blog-2{
+    padding: 20px 50px;
+    margin: 10px 0px;
+    background-color: white;
+    border: 5px solid grey;
+    border-radius: 10px;
+}
+
+.blog-2 a{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 24px;
+    text-decoration: none;
+    color: #4592AF;
 }
