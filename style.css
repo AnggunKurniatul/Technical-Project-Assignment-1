@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #F5F5F5;
+}
+
+header{
+    padding: 10px 50px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    background-color: #E0DEDE;
+}
+
+header img{
+    display: flex;
+    justify-content: flex-start;
+    width: 40px;
+    height: 40px;
+    border-radius: 60px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+.menu a{
+    padding-top: 5px;
+    text-decoration: none;
+}
