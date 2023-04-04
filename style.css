@@ -134,8 +134,8 @@ nav ul{
 .portofolio-2{
     padding: 20px 50px;
     margin: 10px 0px;
-    background-color: #4592AF;
-    border: 2px solid black;
+    background-color: #D3E0EA;
+    border: 5px solid grey;
     border-radius: 10px;
 }
 
@@ -144,7 +144,7 @@ nav ul{
     font-style: normal;
     font-size: 24px;
     text-decoration: none;
-    color: white;
+    color: #4592AF;
 }
 
 .blog{
